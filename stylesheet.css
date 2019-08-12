@@ -1,0 +1,46 @@
+body, div, p, th, td, li, dd, h1, h2, h3, h4, h5   {
+ font-family:      "Comic Sans MS",
+                    "Brush Script MT",
+                    sans-serif;
+    }
+
+.titlelink a:link, .titleLink a:visited {
+color:black;
+text-decoration:none;
+}
+
+.titlelink a:hover, {
+text-decoration:underline;
+}
+
+.navlink a:link, .navlink a:visited, .navlink a:hover, . navlink a:active {color:#333399;font-size:.8em;}
+
+.navigatorLinkcurrent a:link, .currentnavigatorLink a:visited, .currentnavigatorLink a:hover, . currentnavigatorLink a:active {color:#333399;font-size:.8em;}
+
+
+.titleheading  {font-family: "Comic Sans MS","Brush Script MT",cursive;}
+
+.navigatorblock  {
+width:200px;
+background-color: aaddcc;
+padding:0.5em;
+font-weight:bold;
+margin: 3px;
+border: solid 1px #666666;
+}
+.navigatorblock a:link, .navigatorblock a:visited, .navigatorblock a:hover, .navigatorblock a:active {
+text-decoration:none;
+color: 000066;
+
+.navigatorblockright  {
+float:right;
+width:200px;
+background-color: aaddcc;
+padding:0.5em;
+font-weight:bold;
+margin: 3px;
+border: solid 1px #666666;
+}
+.navigatorblockright a:link, .navigatorblockright a:visited, .navigatorblockright a:hover, .navigatorblockright a:active {
+text-decoration:none;
+color: 000066;
